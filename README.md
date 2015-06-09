@@ -22,6 +22,9 @@ to be added
 <li><b>Greenfoot, BlueJ, NetBeans: Graduating to a Professional IDE</b> -- Davin McCall and Fabio Hedayioglu:<br/>
 to be added
 </li>
+<li><b>Design  Patterns in the 21st Century</b> -- Samir Talwar:<br/>
+<a href="https://github.com/NetBeansDay/052915-London/blob/master/DesignPatterns21stCentury.pdf">https://github.com/NetBeansDay/052915-London/blob/master/DesignPatterns21stCentury.pdf</a>
+</li>
 <li><b>Developing on the NetBeans Platform</b> -- Neil C Smith and George Bull:<br/>
 <ul>
 <li><a href="https://github.com/NetBeansDay/052915-London/blob/master/SharpStatisticsNetBeansPlatform.pdf">https://github.com/NetBeansDay/052915-London/blob/master/SharpStatisticsNetBeansPlatform.pdf</a></li>
