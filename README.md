@@ -19,7 +19,16 @@ to be added
 <li><b>Open Source Rocks: ionCube, EPIK, Minecraft, and NetBeans</b> -- Dorine, Luke, Nick:<br/>
 to be added
 </li>
-<li><b>Open Source Rocks: ionCube, EPIK, Minecraft, and NetBeans</b> -- Dorine, Luke, Nick:<br/>
+<li><b>Greenfoot, BlueJ, NetBeans: Graduating to a Professional IDE</b> -- Davin McCall and Fabio Hedayioglu:<br/>
+to be added
+</li>
+<li><b>Developing on the NetBeans Platform</b> -- Neil C Smith and George Bull:<br/>
+<ul>
+<li><a href="https://github.com/NetBeansDay/052915-London/blob/master/SharpStatisticsNetBeansPlatform.pdf">https://github.com/NetBeansDay/052915-London/blob/master/SharpStatisticsNetBeansPlatform.pdf</a></li>
+<li>to be added<li>
+</ul>
+</li>
+<li><b>Building on the Shoulders of Giants with the NetBeans Platform</b> -- Geertjan Wielenga:<br/>
 to be added
 </li>
 
