@@ -12,6 +12,8 @@ to be added
 </li>
 <li><b>Writing Better Code with NetBeans IDE</b> -- Mark Stephens:<br/>
 <a href="https://github.com/NetBeansDay/052915-London/blob/master/WritingBetterCodeNetBeans.pdf">https://github.com/NetBeansDay/052915-London/blob/master/WritingBetterCodeNetBeans.pdf</a>
+<br/>Part 1: <a href="https://www.youtube.com/watch?v=mnhd4lIxeq8">https://www.youtube.com/watch?v=mnhd4lIxeq8</a>
+<br/>Part 2: <a href="https://www.youtube.com/watch?v=7wDk2c4eOYY">https://www.youtube.com/watch?v=7wDk2c4eOYY</a>
 </li>
 <li><b>Developing Java EE Applications with NetBeans and Payara</b> -- Steve Millidge:<br/>
 <a href="https://github.com/NetBeansDay/052915-London/blob/master/JavaEEPayaraNetBeans.pptx">https://github.com/NetBeansDay/052915-London/blob/master/JavaEEPayaraNetBeans.pptx</a>
