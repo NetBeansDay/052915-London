@@ -32,7 +32,7 @@ to be added
 </ul>
 </li>
 <li><b>Building on the Shoulders of Giants with the NetBeans Platform</b> -- Geertjan Wielenga:<br/>
-to be added
+<a href="https://prezi.com/yj2wrpq04oba/extending">https://prezi.com/yj2wrpq04oba/extending</a>
 </li>
 
 </ol>
