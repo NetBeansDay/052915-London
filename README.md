@@ -16,7 +16,7 @@ to be added
 <li><b>Developing Java EE Applications with NetBeans and Payara</b> -- Steve Millidge:<br/>
 <a href="https://github.com/NetBeansDay/052915-London/blob/master/JavaEEPayaraNetBeans.pptx">https://github.com/NetBeansDay/052915-London/blob/master/JavaEEPayaraNetBeans.pptx</a>
 </li>
-<li><b>Open Source Rocks: ionCube, EPIK, Minecraft, and NetBeans</b> -- Dorine, Luke, Nick:<br/>
+<li><b>Open Source Rocks: ionCube, EPIK, Minecraft, and NetBeans</b> -- Dorine Flies, Luke Mayell, Nick Lindridge:<br/>
 to be added
 </li>
 <li><b>Greenfoot, BlueJ, NetBeans: Graduating to a Professional IDE</b> -- Davin McCall and Fabio Hedayioglu:<br/>
