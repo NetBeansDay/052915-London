@@ -16,7 +16,7 @@ Presentations done at NetBeans Day UK, May 29, 2015:
 <br/>Part 2: <a href="https://www.youtube.com/watch?v=7wDk2c4eOYY">https://www.youtube.com/watch?v=7wDk2c4eOYY</a>
 </li>
 <li><b>Developing Java EE Applications with NetBeans and Payara</b> -- Steve Millidge:<br/>
-<a href="https://github.com/NetBeansDay/052915-London/blob/master/JavaEEPayaraNetBeans.pptx">https://github.com/NetBeansDay/052915-London/blob/master/JavaEEPayaraNetBeans.pptx</a>
+<a href="https://github.com/NetBeansDay/052915-London/blob/master/JavaEEPayaraNetBeans.pdf">https://github.com/NetBeansDay/052915-London/blob/master/JavaEEPayaraNetBeans.pdf</a>
 </li>
 <li><b>Open Source Rocks: ionCube, EPIK, Minecraft, and NetBeans</b> -- Dorine Flies, Luke Mayell, Nick Lindridge:<br/>
 to be added
