@@ -22,7 +22,7 @@ Presentations done at NetBeans Day UK, May 29, 2015:
 to be added
 </li>
 <li><b>Greenfoot, BlueJ, NetBeans: Graduating to a Professional IDE</b> -- Davin McCall and Fabio Hedayioglu:<br/>
-to be added
+<a href="https://github.com/NetBeansDay/052915-London/blob/master/GreenfootBlueJ.pdf">https://github.com/NetBeansDay/052915-London/blob/master/GreenfootBlueJ.pdf</a>
 </li>
 <li><b>Design  Patterns in the 21st Century</b> -- Samir Talwar:<br/>
 <a href="https://github.com/NetBeansDay/052915-London/blob/master/DesignPatterns21stCentury.pdf">https://github.com/NetBeansDay/052915-London/blob/master/DesignPatterns21stCentury.pdf</a>
